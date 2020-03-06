@@ -1,0 +1,12 @@
+plugins/modules/cpm_plugconfig.py validate-modules:doc-missing-type
+plugins/modules/cpm_plugconfig.py validate-modules:doc-required-mismatch
+plugins/modules/cpm_plugconfig.py validate-modules:parameter-type-not-in-doc
+plugins/modules/cpm_plugcontrol.py validate-modules:doc-missing-type
+plugins/modules/cpm_plugcontrol.py validate-modules:doc-required-mismatch
+plugins/modules/cpm_plugcontrol.py validate-modules:parameter-type-not-in-doc
+plugins/modules/cpm_serial_port_config.py validate-modules:parameter-type-not-in-doc
+plugins/modules/cpm_serial_port_info.py validate-modules:doc-required-mismatch
+plugins/modules/cpm_serial_port_info.py validate-modules:parameter-list-no-elements
+plugins/modules/cpm_serial_port_info.py validate-modules:parameter-type-not-in-doc
+plugins/modules/cpm_user.py validate-modules:doc-missing-type
+plugins/modules/cpm_user.py validate-modules:parameter-type-not-in-doc
